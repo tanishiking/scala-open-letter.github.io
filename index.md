@@ -307,7 +307,6 @@ Additional support:
 * Richard Ashworth
 * Richard Costine
 * Richard Dallaway
-* Rikito Taniguchi
 * Rishabh Agarwal
 * Rishad Sewnarain
 * Rose Toomey
